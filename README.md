@@ -1,13 +1,5 @@
-# Assignment #2
+# Percolation
 
-Please follow instruction below to complete your assignment. 
-You are expected to provide:
-- IPython notebook
-- HTML export of this notebook
-
-This assignment is due 23/04/2021. Please use code blocks to comment and explain your code.
-
-STUDENT ID: [23617]
 
 
 ```python
